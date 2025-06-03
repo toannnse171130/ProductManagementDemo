@@ -9,6 +9,8 @@ namespace DataAccessLayer
 {
     public class CategoryDAO
     {
+       
+
         public List<Category> GetCategories() 
         {
             var list = new List<Category>()
