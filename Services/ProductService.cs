@@ -13,6 +13,11 @@ namespace Services
             iProductRepository = new ProductRepository();
         }
 
+        public void SaveProduct(Product p)
+        {
+            iProductRepository.SaveProduct(p);
+        }
+
         public void DeleteProduct(Product p)
         {
             iProductRepository.DeleteProduct(p);
@@ -23,6 +28,14 @@ namespace Services
             return iProductRepository.GetProductById(id);
         }
 
+        public List<Product> GetProducts()
+        {
+            return iProductRepository.GetProducts();
+        }
 
+        public void UpdateProduct(Product p)
+        {
+            iProductRepository.UpdateProcut(p);
+        }
     }
 }

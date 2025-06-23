@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20C3B4D2-B9A5-4AD1-825E-4A12A6F9B1B5}|DataAccessObjects\\DataAccessLayer.csproj|d:\\fbt\\prn212_lab_assignment\\lab1\\productmanagementdemo\\dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C3B4D2-B9A5-4AD1-825E-4A12A6F9B1B5}|DataAccessObjects\\DataAccessLayer.csproj|solutionrelative:dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3C7AB56-80D5-40D9-9AEC-210D7A71776A}|Services\\Services.csproj|d:\\fbt\\prn212_lab_assignment\\lab1\\productmanagementdemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C7AB56-80D5-40D9-9AEC-210D7A71776A}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98284F20-BC4F-433D-AC03-C2BF2A90AC15}|BusinessObjects\\BusinessObjects.csproj|d:\\fbt\\prn212_lab_assignment\\lab1\\productmanagementdemo\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98284F20-BC4F-433D-AC03-C2BF2A90AC15}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3C7AB56-80D5-40D9-9AEC-210D7A71776A}|Services\\Services.csproj|d:\\fbt\\prn212_lab_assignment\\lab1\\productmanagementdemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C7AB56-80D5-40D9-9AEC-210D7A71776A}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98284F20-BC4F-433D-AC03-C2BF2A90AC15}|BusinessObjects\\BusinessObjects.csproj|d:\\fbt\\prn212_lab_assignment\\lab1\\productmanagementdemo\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98284F20-BC4F-433D-AC03-C2BF2A90AC15}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3C7AB56-80D5-40D9-9AEC-210D7A71776A}|Services\\Services.csproj|d:\\fbt\\prn212_lab_assignment\\lab1\\productmanagementdemo\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C7AB56-80D5-40D9-9AEC-210D7A71776A}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C3B4D2-B9A5-4AD1-825E-4A12A6F9B1B5}|DataAccessObjects\\DataAccessObjects.csproj|d:\\fbt\\prn212_lab_assignment\\lab1\\productmanagementdemo\\dataaccessobjects\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C3B4D2-B9A5-4AD1-825E-4A12A6F9B1B5}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3C7AB56-80D5-40D9-9AEC-210D7A71776A}|Services\\Services.csproj|d:\\fbt\\prn212_lab_assignment\\lab1\\productmanagementdemo\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C7AB56-80D5-40D9-9AEC-210D7A71776A}|Services\\Services.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98284F20-BC4F-433D-AC03-C2BF2A90AC15}|BusinessObjects\\BusinessObjects.csproj|d:\\fbt\\prn212_lab_assignment\\lab1\\productmanagementdemo\\businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98284F20-BC4F-433D-AC03-C2BF2A90AC15}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95FA7885-E918-44B7-B0B3-18E9703F14D3}|Repositories\\Repositories.csproj|d:\\fbt\\prn212_lab_assignment\\lab1\\productmanagementdemo\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FA7885-E918-44B7-B0B3-18E9703F14D3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FA7885-E918-44B7-B0B3-18E9703F14D3}|Repositories\\Repositories.csproj|d:\\fbt\\prn212_lab_assignment\\lab1\\productmanagementdemo\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FA7885-E918-44B7-B0B3-18E9703F14D3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDAO.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\DataAccessObjects\\ProductDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessObjects\\ProductDAO.cs",
-              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\DataAccessObjects\\ProductDAO.cs",
-              "RelativeToolTip": "DataAccessObjects\\ProductDAO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:52:45.372Z",
+              "WhenOpened": "2025-06-03T10:18:21.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryDAO.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\DataAccessObjects\\CategoryDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessObjects\\CategoryDAO.cs",
-              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\DataAccessObjects\\CategoryDAO.cs",
-              "RelativeToolTip": "DataAccessObjects\\CategoryDAO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:32:26.494Z",
+              "WhenOpened": "2025-06-03T10:17:00.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:06:25.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AccountMember.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\BusinessObjects\\AccountMember.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\AccountMember.cs",
-              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\BusinessObjects\\AccountMember.cs",
-              "RelativeToolTip": "BusinessObjects\\AccountMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:14:25.457Z",
+              "WhenOpened": "2025-06-03T10:06:08.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\BusinessObjects\\Category.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Category.cs",
-              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\BusinessObjects\\Category.cs",
-              "RelativeToolTip": "BusinessObjects\\Category.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAwAAAAsAAAAAAAAAA==",
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T02:51:19.15Z",
+              "WhenOpened": "2025-06-03T09:53:11.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\BusinessObjects\\Product.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
-              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\BusinessObjects\\Product.cs",
-              "RelativeToolTip": "BusinessObjects\\Product.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA8AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\Lab1\\ProductManagementDemo\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T02:50:15.803Z",
+              "WhenOpened": "2025-06-03T09:49:26.71Z",
               "EditorCaption": ""
             }
           ]
